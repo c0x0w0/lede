@@ -15,8 +15,8 @@ on:
   push:
     tags:
       - '*'
-  watch:
-    types: started
+    watch:
+      types: started
 
 jobs:
 
